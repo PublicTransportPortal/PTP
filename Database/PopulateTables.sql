@@ -1,0 +1,91 @@
+INSERT INTO Bus (idBus,source,destination,bus_type) values ('1-B' , 'Nazimabad' ,'Tower' ,'minibus'), ('1-C' , 'M.P.R Colony' ,'Sultanabad' ,'bus'), ('Abaseen Coach' , 'Ittehad Town' ,'Clifton' ,'Coach')
+
+
+INSERT INTO Point(PointName) VALUES
+('Ittehad Town'),	
+('Orangi No.11 1/2'),	 
+('Chisti Nagar'),	 
+('Islam Chowk'),	 
+('Orangi No.10'),	 
+('Orangi No.4'),	 
+('Metroville'),	 
+('SITE'),	 
+('Valika Mill'),	 
+('Habib Bank'),
+('Old Golimar'), 
+('Garden Plaza'),	 
+( 'Jama Cloth'),
+('Tower'),
+( 'Keamari'),	 
+('Maison Road'),	 
+('Shirin Jinnah Colony'	),
+('Clifton'),
+
+('Nazimabad'),	 
+('Bara Maidan'),	 
+('Lasbela'),
+('Lawrence Road'),	 
+('Barness Street'), 
+('Bandar Road'), 
+
+('M.P.R Colony'),	 
+('Qasba Colony'),	 
+('Banaras Colony'),	 
+('Pathan Colony'),	 
+('Habib Bank'),	 
+('Bismillah Hotel'),	 
+('Gandhi Garden'),	 
+('Garden Road'),	 
+('Plaza'),
+( 'Regal'),	 
+('Shahrah-e-Liaquat'),	 
+('National Museum'),	 
+('Sultanabad');
+
+
+INSERT INTO Bus_has_Point (Bus_idBus, Point_idPoint) Values
+((select idBus from bus where bus_type= 'coach'), (Select idPoint from Point where idPoint= 30)), 
+((select idBus from bus where bus_type= 'coach'), (Select idPoint from Point where idPoint= 31)), 
+((select idBus from bus where bus_type= 'coach'), (Select idPoint from Point where idPoint= 32)), 
+((select idBus from bus where bus_type= 'coach'), (Select idPoint from Point where idPoint= 33)), 
+((select idBus from bus where bus_type= 'coach'), (Select idPoint from Point where idPoint= 34)), 
+((select idBus from bus where bus_type= 'coach'), (Select idPoint from Point where idPoint= 35)), 
+((select idBus from bus where bus_type= 'coach'), (Select idPoint from Point where idPoint= 36)), 
+((select idBus from bus where bus_type= 'coach'), (Select idPoint from Point where idPoint= 37)), 
+((select idBus from bus where bus_type= 'coach'), (Select idPoint from Point where idPoint= 38)), 
+((select idBus from bus where bus_type= 'coach'), (Select idPoint from Point where idPoint= 39)), 
+((select idBus from bus where bus_type= 'coach'), (Select idPoint from Point where idPoint= 40)), 
+((select idBus from bus where bus_type= 'coach'), (Select idPoint from Point where idPoint= 41)), 
+((select idBus from bus where bus_type= 'coach'), (Select idPoint from Point where idPoint= 42)), 
+((select idBus from bus where bus_type= 'coach'), (Select idPoint from Point where idPoint= 43)), 
+((select idBus from bus where bus_type= 'coach'), (Select idPoint from Point where idPoint= 44)), 
+((select idBus from bus where bus_type= 'coach'), (Select idPoint from Point where idPoint= 45)), 
+((select idBus from bus where bus_type= 'coach'), (Select idPoint from Point where idPoint=46)), 
+((select idBus from bus where bus_type= 'coach'), (Select idPoint from Point where idPoint= 47)), 
+
+((select idBus from bus where bus_type= 'bus'), (Select idPoint from Point where idPoint= 54)), 
+((select idBus from bus where bus_type= 'bus'), (Select idPoint from Point where idPoint= 55)), 
+((select idBus from bus where bus_type= 'bus'), (Select idPoint from Point where idPoint= 56)), 
+((select idBus from bus where bus_type= 'bus'), (Select idPoint from Point where idPoint= 57)), 
+((select idBus from bus where bus_type= 'bus'), (Select idPoint from Point where idPoint= 58)), 
+((select idBus from bus where bus_type= 'bus'), (Select idPoint from Point where idPoint= 59)), 
+((select idBus from bus where bus_type= 'bus'), (Select idPoint from Point where idPoint= 60)), 
+((select idBus from bus where bus_type= 'bus'), (Select idPoint from Point where idPoint= 61)),
+((select idBus from bus where bus_type= 'bus'), (Select idPoint from Point where idPoint= 62)), 
+((select idBus from bus where bus_type= 'bus'), (Select idPoint from Point where idPoint= 63)), 
+((select idBus from bus where bus_type= 'bus'), (Select idPoint from Point where idPoint= 64)), 
+((select idBus from bus where bus_type= 'bus'), (Select idPoint from Point where idPoint= 65)),
+((select idBus from bus where bus_type= 'bus'), (Select idPoint from Point where idPoint= 66)), 
+((select idBus from bus where bus_type= 'bus'), (Select idPoint from Point where idPoint= 37)), 
+
+((select idBus from bus where bus_type= 'minibus'), (Select idPoint from Point where idPoint= 43)), 
+((select idBus from bus where bus_type= 'minibus'), (Select idPoint from Point where idPoint= 48)),
+((select idBus from bus where bus_type= 'minibus'), (Select idPoint from Point where idPoint= 49)), 
+((select idBus from bus where bus_type= 'minibus'), (Select idPoint from Point where idPoint= 50)),
+((select idBus from bus where bus_type= 'minibus'), (Select idPoint from Point where idPoint= 51)), 
+((select idBus from bus where bus_type= 'minibus'), (Select idPoint from Point where idPoint= 52)),
+((select idBus from bus where bus_type= 'minibus'), (Select idPoint from Point where idPoint= 53)); 
+select* from bus_has_point
+
+
+Insert into portalUser (Name, Age, Gender, ResidentiaAddress, WorkAddress, emailID, PTusagePerWeek, ownVehicle) Values ('Anusha Fatima', 21, 1, 'block-13D', 'none', 'af00370@st.habib.edu.pk', 2, 0);
