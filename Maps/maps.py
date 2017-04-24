@@ -53,8 +53,8 @@ def genRoute(source, destination, graph):
     lt=[]
     ln=[]
     for i in route:
-        lt.append(G.node[i]['pos'][0])
-        ln.append(G.node[i]['pos'][1])
+        lt.append(graph.node[i]['pos'][0])
+        ln.append(graph.node[i]['pos'][1])
     return (lt,ln,route)
     
 
