@@ -65,3 +65,9 @@ def displayMap(lt=[24.891419,24.93688,24.9941,25.000994,24.926917],ln =[67.03788
     gmap = gmplot.GoogleMapPlotter(cn1, cn2, 16)
     gmap.plot(lt, ln, 'red', edge_width=5)
     gmap.draw("mymap.html")
+
+
+##lor=[[('Nazimabad', 24.911098, 67.028587), ('Bara Maidan', 24.916626, 67.021762),('Lasbela', 24.861462, 67.009939),('Lawrence Road', 24.879406, 67.032892),('Barness Street', 24.866086, 67.01592),('Bandar Road', 24.860808, 67.017838),('Tower', 24.935474, 67.138742)]]
+##G=makeGraph(lor)
+##(lt, ln, r)=genRoute('Barness Street', 'Bandar Road', G)
+##displayMap(lt, ln)
