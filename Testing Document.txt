@@ -1,0 +1,32 @@
+The main(source, destination) function was tested for various, valid and invalid, inputs to check wheteher it is performing as specified on the valid inputs and 
+generating relevant errors on invalid inputs. In general, the following four cases were taken care of:
+
+1) Valid source and destination: If the source and destination were actual existing locations in Karachi, the main function should output the exact route and the 
+corresponding buses to be taken.
+
+2) Same source and destication: If the input source and destication are equivalent in terms of their latitude and longitude, then the function should give an error 
+stating that they are same.
+
+3) Source or destination not within Karachi: The main function should check the distance of the source and the destination to the closest bus stop and if either of 
+it is greater than 5 KM (our criteria of identifying a location not within karachi: assuming the buses of Karachi has access to all the areas of the city and the fact 
+that the distance between two consecutive points is never greater than 5 KM, the distance between any arbitrary location and its closest point will not be greater than 
+this value), it should output an error and ask the user to re-enter the locations.
+
+4) Source or destination not identifiable by the geocoding library: The main function should check that if any of the inputs is not identifiable with this library, 
+it must be an invalid point and should ask the user to re-enter his inputs.
+
+5) Source or destination entered with minor typing errors: If the inputs fall under case 3) or 4) above, the function should check that whether the user is making a 
+typing mistake by identifying all the bus points that have similar names and ask the user that did he mean any of these. If there are no similar point names, the 
+function should perform as specified in cases 3) and 4). If the inputs fall under case 1), the function will not identify the points with similar names.
+
+The function checkTestCases() is made to check whether the function is performing as specified for each of the cases above.  
+
+The priorities of error generation are as follows:
+
+1) Invalid source
+2) Invalid destination
+3) Same source and destination
+4) Source outside Karachi
+5) Destination outside Karachi
+
+If none of these errors are generated, the function will assume that the input locations are valid and will output the buses to be taken. 
