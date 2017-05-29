@@ -1,0 +1,1302 @@
+1-B ,Nazimabad,0
+1-B , Bara Maidan,1
+1-B , Lasbela,2
+1-B , Lawrence Road,3
+1-B , Barness Street,4
+1-B , Bandar Road,5
+1-B , Tower,6
+1-C ,M.P.R Colony,0
+1-C , Qasba Colony,1
+1-C , Banaras Colony,2
+1-C , Pathan Colony,3
+1-C , S.I.T.E,4
+1-C , Habib Bank,5
+1-C , Bismillah Hotel,6
+1-C , Gandhi Garden,7
+1-C , Garden Road,8
+1-C , Plaza,9
+1-C , Regal,10
+1-C , Shahrah-e-Liaquat,11
+1-C , National Museum,12
+1-C , Tower,13
+1-C , Sultanabad,14
+1-D ,Ittehad Town,0
+1-D , Orangi Township,1
+1-D , Banaras Colony,2
+1-D , Pathan Colony,3
+1-D , Petrol Pump,4
+1-D , Liaquatabad No.10,5
+1-D , Liaquatabad,6
+1-D , Post Office,7
+1-D , Teen Hatti,8
+1-D , Jehangir Road,9
+1-D , Empress Market,10
+1-D , Cantt Station,11
+1-E ,manzoor colony,0
+1-E , bismillah pul,1
+1-E , mehmoodabad no 6,2
+1-E , mehmoodabad no.5,3
+1-E , mehmoodabad no.4,4
+1-E , mehmoodabad no.3,5
+1-E , mehmoodabad no.2,6
+1-E , mehmoodabad no.1,7
+1-E , corporation,8
+1-E , parsi colony,9
+1-E , kalapul,10
+1-E , jinnah hospital,11
+1-E , regent plaza,12
+1-E , lucky star,13
+1-E , Saddar,14
+1-E , numaish,15
+1-E , gurumandir,16
+1-E , patel para,17
+1-E , lasbela,18
+1-E , golimar,19
+1-E , petrol pump,20
+1-E , nazimabad,21
+1-E , habib bank,22
+1-E , orangi no 4,23
+1-E , orangi no 10,24
+1-E , faqeer colony,25
+1-F ,Naval Colony,0
+1-F , Mauripur,1
+1-F , Gulbai Chowk,2
+1-F , Tower,3
+1-F , Juna Market,4
+1-F , Ramswami,5
+1-F , Valika,6
+1-F , Orangi Township No.10,7
+1-G ,M.W Tower,0
+1-G , Frere Road,1
+1-G , Saddar,2
+1-G , Numaish,3
+1-G , Guru Mandir,4
+1-G , Teen Hatti,5
+1-G , Liaquatabad No.10,6
+1-G , Petrol Pump,7
+1-G , Nazimabad No.2,8
+1-G , Gandhi Chowk,9
+1-G , Paposh Nagar,10
+1-G , Abdullah College,11
+1-G , Metro Cinema,12
+1-G , Data Chowk Orangi Town,13
+1-H ,Gulshan-e-Bahar,0
+1-H , Orangi Sector No.14,1
+1-H , Orangi Sector No.13,2
+1-H , Orangi Sector No.7,3
+1-H , Orangi Sector No.5,4
+1-H , Qadafi Chowk,5
+1-H , Qasba Mour,6
+1-H , Banaras Colony,7
+1-H , Valika Hospital,8
+1-H , Valika Mill,9
+1-H , Habib Bank,10
+1-H , S.I.T.E,11
+1-H , Post Office,12
+1-H , Ghani Chowk,13
+1-H , Shershah,14
+1-H , Miran Naka,15
+1-H , Chakiwara,16
+1-H , Lee Market,17
+1-H , Kharadar,18
+1-H , Jamat Khana,19
+1-H , Tower,20
+1-H , Keamari,21
+1-L ,Raees Amrohi Colony,0
+1-L , Islam Chowk,1
+1-L , Nishan-e-Hyder Chowk,2
+1-L , Orangi No.5,3
+1-L , Habib Bank,4
+1-L , Bara Road,5
+1-L , Bismillah Hotel,6
+1-L , Garden,7
+1-L , Saddar,8
+1-L , Jinnah Hospital,9
+1-L , Akhter Colony,10
+1-L , Qayyumabad,11
+1-L , Korangi Industrial Area,12
+1-L , Sharifabad,13
+11-A ,Gulistan-e-Jouhar,0
+11-A , Safari Park,1
+11-A , NIPA,2
+11-A , Civic Centre,3
+11-A , Sabzi Mandi,4
+11-A , Jail Road,5
+11-A , Hyderabad Colony,6
+11-A , Guru Mandir,7
+11-A , Numaish,8
+11-A , Saddar,9
+11-A , Regal,10
+11-A , Saeed Manzil,11
+11-A , M.A Jinnah Road,12
+11-C ,Azam Basti,0
+11-C , Corporation,1
+11-C , Kalapul,2
+11-C , Jinnah Hospital,3
+11-C , Saddar,4
+11-C , 7th Day Hospital,5
+11-C , Numaish,6
+11-C , Guru Mandir,7
+11-C , Islamia College,8
+11-C , Jail Road,9
+11-C , New Town Police Station,10
+11-C , Sabzi Mandi,11
+11-C , Civic Centre,12
+11-C , Urdu College,13
+11-C , NIPA Chowrangi,14
+11-C , Safari Park,15
+11-C , University Road,16
+11-C , Safoora Goth,17
+17-H ,Saddar,0
+17-H , Jinnah Central Hospital,1
+17-H , Kala Pul,2
+17-H , Defence Market,3
+17-H , Akhter Colony,4
+17-H , Korangi Crossing,5
+17-H , Korangi No.1,6
+17-H , Korangi No.2-1/2,7
+17-H , Korangi No.4,8
+17-H , Korangi No.5-1/2,9
+17-H , Dhobi Ghat,10
+17-I ,Ghous Pak,0
+17-I , Coast Guard,1
+17-I , Korangi No.2,2
+17-I , Nasir Colony,3
+17-I , Chamra Chowrangi,4
+17-I , Brookse Chowrangi,5
+17-I , Akhter Colony,6
+17-I , Defence Mour,7
+17-I , Kalapul,8
+17-I , Jinnah Hospital,9
+17-I , Lucky Star,10
+17-I , Saddar,11
+17-I , Numaish,12
+17-I , Guru Mandir,13
+17-I , Islamia College,14
+17-I , Jail Chowrangi,15
+17-I , New Town,16
+17-I , Agha Khan Hospital,17
+17-I , National Stadium,18
+17-I , Drive-in Cinema,19
+17-I , Aladin Park,20
+17-I , NIPA Chowrangi,21
+17-I , Kala Board,22
+17-I , Safari Park,23
+17-I , Jauhar Chowrangi,24
+17-I , Pahalwan Goth,25
+17-J ,Babar Market,0
+17-J , Landhi No.3 1/2,1
+17-J , Landhi No.5,2
+17-J , Korangi No.6,3
+17-J , Korangi No.5,4
+17-J , Korangi No.3,5
+17-J , Korangi No.1,6
+17-J , Korangi Crossing,7
+17-J , Qayumabad,8
+17-J , Akhtar Colony,9
+17-J , Defence Society,10
+17-J , Kala Pul,11
+17-J , Jinnah Hospital,12
+17-J , Luck Star Hotel,13
+17-K ,Khadda Quaters,0
+17-K , Hospital Chowrangi,1
+17-K , Market No.6,2
+17-K , Gul Ahmed Textile Mills,3
+17-K , Quaidabad,4
+17-K , Dhobi Ghat,5
+17-K , Dawood Chowrangi,6
+17-K , Mansehra Colony,7
+17-K , Korangi No.6,8
+17-K , Qayyumabad,9
+17-K , Murtaza Chowrangi,10
+17-K , Defence Society,11
+17-K , Singer Chowrangi,12
+17-K , Jinnah Hospital,13
+17-K , Bilal Chowrangi,14
+17-K , Raja Ghazanfar Ali Road,15
+17-K , Vita Chowrangi,16
+17-K , Chamra Chowrangi,17
+17-K , Brookse Chowrangi,18
+17-K , Akhter Colony,19
+17-K , Defence Mour,20
+17-K , Kala Pul,21
+17-K , Jinnah Hospital,22
+17-K , Lucky Star,23
+17-K , Saddar,24
+19-D ,Faqir Colony,0
+19-D , Hub River Road,1
+19-D , Shershah,2
+19-D , Chakiwara,3
+19-D , Lee Market,4
+19-D , Haji Camp,5
+19-D , Jamila Street,6
+19-D , Nishter Road,7
+19-D , Baba-e-Urdu Road,8
+19-D , Shahra-e-Liaquat,9
+19-D , Fresco Chowk,10
+19-D , Mohammad-Bin-Qasim Road,11
+19-D , M.A Jinnah Road,12
+19-D , Mansfield Street,13
+19-D , Empress Market,14
+19-D , Mir Karam Ali Talpur Road,15
+19-D , Wellington Street,16
+19-D , Cantt Station,17
+19-D , Clifton,18
+19-D , Delhi Colony,19
+19-D , Gizri,20
+2-C ,Rehmania Mour,0
+2-C , Khawaja Ajmeer Nagri,1
+2-C , Baradari,2
+2-C , Disco Mour,3
+2-C , Nusrat Bhutto Colony,4
+2-C , Abdullah College,5
+2-C , Nazimabad No.7,6
+2-C , Petrol Pump,7
+2-C , lasbela,8
+2-C , Patel Para,9
+2-C , Guru Mandir,10
+2-C , Numaish,11
+2-C , Saddar,12
+2-C , Frere Road,13
+2-C , Jama Cloth Market,14
+2-C , Tower,15
+2-D ,F.B Area,0
+2-D , Noorani Masjid,1
+2-D , Peoples Colony,2
+2-D , Imam Bara,3
+2-D , Humayun Road,4
+2-D , K.D.A Office,5
+2-D , North Nazimabad,6
+2-D , Board Office,7
+2-D , Nazimabad No.7,8
+2-D , Petrol Pump,9
+2-D , Lasbella,10
+2-D , Sabil Wali Masjid,11
+2-D , Soldier Bazar,12
+2-D , Saddar,13
+2-D , Frere Road,14
+2-D , M.W Tower,15
+2-D , Noorani Masjid,16
+2-K ,North Nazimabad Block M,0
+2-K , Shahra-e-Jahangir,1
+2-K , Water Pump,2
+2-K , Hyderi,3
+2-K , Paposh Nagar,4
+2-K , Bara Maidan,5
+2-K , Nazimabad No.2,6
+2-K , Petrol Pump,7
+2-K , Guru Mandir,8
+2-K , Saddar,9
+2-K , Burns Road,10
+2-K , Tower,11
+2-K , Keamari,12
+20,Shirin Jinnah Colony,0
+20, Clifton,1
+20, Mehata Palace,2
+20, Clifton Bridge,3
+20, Bagh-e-Jinnah,4
+20, Metropole Hotel,5
+20, Lucky Star,6
+20, Saddar,7
+20, Garden,8
+20, Old Golimar,9
+20, Bara Board,10
+20, Habib Bank,11
+20, Valika Stop,12
+20, Police Station,13
+20, S.I.T.E,14
+20, Labour Square,15
+20, Rashidabad,16
+22-A ,Rashidabad,0
+22-A , Bihar Colony,1
+22-A , Ghani Chowrangi,2
+22-A , Shershah,3
+22-A , Chakiwara,4
+22-A , Lee Market,5
+22-A , Haji Camp Road,6
+22-A , Nishter Road,7
+22-A , Baba-e-Urdu,8
+22-A , Frere Road,9
+22-A , Court Road,10
+22-A , Sarwar Shaheed Road,11
+22-A , Shahrah-e-Iraq,12
+22-A , Masjid-e-Khizra,13
+22-A , Burns Road,14
+22-A , M.A Jinnah Road,15
+22-A , Cantt Station,16
+22-B ,Agra taj Colony,0
+22-B , Kalri,1
+22-B , Baghdadi,2
+22-B , Moosa Lane,3
+22-B , Kharadar,4
+22-B , Khajeer Bazar,5
+22-B , Lea Market,6
+22-B , Purani Haji Camp,7
+22-B , Ranchore Lines,8
+22-B , Shoe Market,9
+22-B , Garden,10
+22-B , Pakistan Quarters,11
+22-B , Khawaja Jamat Khana,12
+22-B , Lasbela,13
+22-B , Teen Hatti,14
+22-B , New Town,15
+22-B , Liaquat Hospital,16
+22-B , Dhoraji Society,17
+22-B , National Stadium,18
+22-B , National Cement Factory,19
+22-B , Naval Quaters,20
+22-B , Labour Quaters,21
+22-B , Drigh Road,22
+22-B , Natha Khan Goth,23
+22-B , Airport,24
+22-B , Malir,25
+22-B , Landhi,26
+22-B , Quaidabad,27
+22-B , Qazafi Town,28
+4,New Karachi,0
+4, K.D.A Office,1
+4, Hyderi,2
+4, State Bank Quarters,3
+4, Board Office,4
+4, Nazimabad No.1,5
+4, Petrol Pump,6
+4, Lasbela,7
+4, Ranchor Lane,8
+4, Juna Market,9
+4, Napier Road,10
+4, Tower ,11
+4-B ,New Karachi,0
+4-B , Industrial Area,1
+4-B , Karimabad,2
+4-B , Liaquatabad,3
+4-B , Teen Hatti,4
+4-B , Guru Mandir,5
+4-B , M.A Jinnah Road,6
+4-B , Bandar Road,7
+4-B , Preedy Street,8
+4-B , Police Station,9
+4-B , Saddar,10
+4-C ,New Karachi Block 5-F,0
+4-C , Industrial Area,1
+4-C , Karimabad,2
+4-C , Liaquatabad,3
+4-C , Teen Hatti,4
+4-C , Goro Mandir,5
+4-C , M.A Jinnah Road,6
+4-C , Bandar Road,7
+4-C , Preedy Street,8
+4-C , Police Station,9
+4-C , Saddar,10
+4-G ,Nai Abadi,0
+4-G , Power House,1
+4-G , Saleem Centre,2
+4-G , U.P Mour,3
+4-G , Nagan Chowrangi,4
+4-G , Sakhi Hassan ,5
+4-G , Hyderi,6
+4-G , Board Office,7
+4-G , Petrol Pump,8
+4-G , Liaquatabad No.10,9
+4-G , Post Office,10
+4-G , Teen Hatti,11
+4-G , Guru Mandir,12
+4-G , Numaish,13
+4-G , Saddar,14
+4-G , Empress Market,15
+4-G , Frere Road,16
+4-G , Burns Road,17
+4-G , M.A Jinnah Road,18
+4-G , Tower,19
+4-H ,Surjani Town,0
+4-H , Yousuf Goth,1
+4-H , Lal Market,2
+4-H , New Karachi,3
+4-H , Water Pump,4
+4-H , Karimabad,5
+4-H , Liaquatabad No. 10,6
+4-H , Teen Hatti,7
+4-H , Goro Mandir,8
+4-H , 7th Day Hospital,9
+4-H , Empress Market,10
+4-H , Lucky Star,11
+4-H , Jinnah Hospital,12
+4-H , Cantt Stations,13
+4-H , Clifton Bridge,14
+4-H , Gizri,15
+4-H , Sea View,16
+4-J ,Nai Abadi,0
+4-J , Saleem Centre,1
+4-J , Nagan Chowrangi,2
+4-J , Sakhi Hassan,3
+4-J , Hyderi,4
+4-J , Board Office,5
+4-J , Petrol Pump,6
+4-J , Liaquatabad No.10,7
+4-J , Teen Hatti,8
+4-J , Guru Mandir,9
+4-J , M.A Jinnah Road,10
+4-J , Tower,11
+4-K ,Kali Market,0
+4-K , New Karachi,1
+4-K , K.D.A Office,2
+4-K , Al-Hyderi,3
+4-K , State Bank Quarters,4
+4-K , Nazimabad No.7,5
+4-K , Petrol Pump,6
+4-K , Lasbella,7
+4-K , Guru Mandir,8
+4-K , Numaish Chowrangi,9
+4-K , Saddar,10
+4-K , Empress Market,11
+4-K , Regal,12
+4-K , Tibet Centre,13
+4-K , Bander Road,14
+4-K , Tower,15
+4-L ,Maymar Complex ,0
+4-L , Al-Asif Plaza,1
+4-L , Sohrab Goth,2
+4-L , Water Pump,3
+4-L , Karimabad,4
+4-L , Liaquatabad,5
+4-L , Teen Hatti,6
+4-L , Numaish,7
+4-L , Saddar,8
+4-L , Empress Market,9
+4-L , Burns Road,10
+4-L , M.A Jinnah Road,11
+4-L , Tower,12
+4-Q ,Faqeer Colony,0
+4-Q , Hub River Road,1
+4-Q , Shershah,2
+4-Q , Chakiwara,3
+4-Q , Lee Market,4
+4-Q , Haji Camp,5
+4-Q , Jamila Street,6
+4-Q , Nishter Road,7
+4-Q , Baba Urdu Road,8
+4-Q , Shahrah-e-Liaquat,9
+4-Q , Fresco Chowk,10
+4-Q , Mohammad-Bin-Qasim Road,11
+4-Q , M.A Jinnah Road,12
+4-Q , Mansfield Street,13
+4-Q , Empress Market,14
+4-Q , Mir Karim Ali Talpur Road,15
+4-Q , Wellington Street,16
+4-Q , Cantt Station,17
+4-Q , Clifton,18
+4-Q , Dehli Colony,19
+4-Q , Gizri,20
+4-Q , Zamzama Neelam Colony,21
+4-Q , Abdullah Shah Ghazi,22
+4-Q , Khayaban-e-Saadi,23
+4-Q , Bilawal Chowrangi,24
+4-Q , Kharkar Chowrangi,25
+4-S ,Surjani Town,0
+4-S , Do Minute Chowrangi,1
+4-S , Saleem Centre,2
+4-S , U.P Mour,3
+4-S , Nagan Chowrangi,4
+4-S , Shadman Town,5
+4-S , Sakhi Hassan,6
+4-S , Hyderi,7
+4-S , Board Office,8
+4-S , Nazimabad No.7,9
+4-S , Nazimabad No.6,10
+4-S , Nazimabad Chowrangi,11
+4-S , Lasbella House,12
+4-S , Guru Mandir,13
+4-S , Numaish,14
+4-S , M.A Jinnah Road,15
+4-S , Eidgah,16
+4-S , Tower,17
+45-A ,Khokrapar No.4,0
+45-A , Saudabad,1
+45-A , Liaquat Market,2
+45-A , Jinnah Square,3
+45-A , Mohabbat Nagar,4
+45-A , Malir15,5
+45-A , Star Gate,6
+45-A , Drigh Road Station,7
+45-A , Drive-in-Cinema,8
+45-A , NIPA Chowrangi,9
+45-A , Hassan Square,10
+45-A , Nazimabad,11
+45-A , Petrol Pump,12
+45-A , Habib Bank,13
+45-A , Naurus Chowrangi,14
+45-A , Ghani Chowrangi,15
+45-A , Shershah,16
+45-A , Hub River Road,17
+5,Al-Noor Society,0
+5, Gulberg,1
+5, Water Pump,2
+5, Aisha Manzil,3
+5, Karimabad Chowrangi,4
+5, Liaquatabad,5
+5, Teen Hatti,6
+5, P.I.B Colony,7
+5, Jamshed Road,8
+5, Guru Mandir,9
+5, Numaish Chowrangi,10
+5, M.A Jinnah Road,11
+5, Bandar Road,12
+5, Keamari,13
+5-C ,Gulberg Chowrangi,0
+5-C , Rahimabad,1
+5-C , K.D.A Pump House,2
+5-C , Wahadat Colony,3
+5-C , Saghirabad,4
+5-C , Nasirabad,5
+5-C , Dastagir Colony,6
+5-C , Azizabad,7
+5-C , Aisha Manzil,8
+5-C , Karimabad,9
+5-C , Liaquatabad,10
+5-C , Teen Hatti,11
+5-C , Guru Mandir,12
+5-C , M.A Jinnah Road,13
+5-C , Saddar,14
+5-C , Empress Market,15
+5-C , Burns Road,16
+5-C , Tower,17
+5-D ,Musa Colony,0
+5-D , Federal B. Area,1
+5-D , Liaquatabad No.10,2
+5-D , Teen Hatti,3
+5-D , Guru Mandir,4
+5-D , Old Exhibition,5
+5-D , Empress Market,6
+5-D , Frere Road,7
+5-D , Burns Road,8
+5-D , Bandar Road,9
+5-D , Tower,10
+5-D , Dockyard,11
+51-C ,Chamra Chowrangi,0
+51-C , Vita Chowrangi,1
+51-C , Bilal Chowrangi,2
+51-C , Singer Chowrangi,3
+51-C , Murtaza Chowrangi,4
+51-C , Dawood Chowrangi,5
+51-C , Quaidabad,6
+51-C , Malir 15,7
+51-C , Kala Board Malir,8
+51-C , Malir Halt,9
+51-C , Jinnah Airport Entrance,10
+51-C , Star Gate,11
+51-C , Drigh Road Station,12
+51-C , Millenium Mall,13
+51-C , Jauhar Mour,14
+51-C , Aladin Park,15
+51-C , NIPA,16
+51-C , Gulshan-e-Iqbal Chowrangi,17
+51-C , Moti Mehal,18
+51-C , Fazal Mills,19
+51-C , Sohrab Goth,20
+51-C , Al-Asif Square,21
+51-C , Khuda Ki Basti,22
+51-C , New Sabzi Mandi,23
+52-A ,Labour Square,0
+52-A , Gul Mohammad Chowrangi,1
+52-A , Metropolitan Steel Corporation,2
+52-A , Qazafi Town,3
+52-A , Quaidabad,4
+52-A , Landhi,5
+52-A , Malir City,6
+52-A , Drigh Road,7
+52-A , Jail Road,8
+52-A , Nishter Road,9
+52-A , Lee Market,10
+52-A , Agha Khan Jamat Khana,11
+52-A , G.Allana Road,12
+52-A , Khaja Jamat Khana,13
+52-A , Dockyard,14
+52-A , Fisheries,15
+6,Fayyaz Plaza,0
+6, Dastagir Colony,1
+6, Azizabad,2
+6, Karimabad,3
+6, Liaquatabad,4
+6, Teen Hatti,5
+6, Goro Mandir,6
+6, M.A Jinnah Road,7
+6, Saddar,8
+6, Empress Market,9
+6, Bruns Road,10
+6, Tower,11
+6-B ,Yasinabad,0
+6-B , Alliaabad,1
+6-B , Hussainabad,2
+6-B , Karimabad,3
+6-B , Liaquatabad No.10,4
+6-B , Petrol Pump,5
+6-B , Nazimabad Chowrangi,6
+6-B , Golimar,7
+6-B , Lasbela,8
+6-B , Goro Mandir,9
+6-B , M.A Jinnah Road,10
+6-B , Saddar,11
+6-B , Buns Road,12
+6-B , Light House,13
+6-B , Tower,14
+60,Sindhi Hotel,0
+60, New Karachi,1
+60, Manhgopir Road,2
+60, Banaras Colony,3
+60, Valika Mills,4
+60, Bara Board,5
+60, Rexer Lines,6
+60, Dhobi Ghat,7
+60, Lee Market,8
+61-A ,Pakistan Refinery,0
+61-A , Crossing,1
+61-A , Qayyumabad,2
+61-A , Akhter Colony,3
+61-A , Defence Mour,4
+61-A , Kala Pul,5
+61-A , Jinnah Hospital,6
+61-A , Lucky Star,7
+61-A , Saddar.,8
+7-C ,Dockyard,0
+7-C , Agha Khan Jamat Khana,1
+7-C , Lee Market,2
+7-C , Chakiwra,3
+7-C , Miran Naka,4
+7-C , Shershah,5
+7-C , Habib Bank,6
+7-C , Bara Board,7
+7-C , Muslim League Quarters,8
+7-C , Nazimabad Chowrangi,9
+7-C , Liaquatabad Post Office,10
+7-C , Liaquatabad No.10,11
+7-C , Karimabad,12
+7-C , Imam Bara,13
+7-C , Dr. Ziauddin Hospital,14
+7-C , Peoples Chowrangi,15
+7-C , Saifee Technology College,16
+7-C , Bufferzone.,17
+7-H ,Keamari,0
+7-H , Tower,1
+7-H , Bolton Market,2
+7-H , Eidgah,3
+7-H , Ranchore Line,4
+7-H , Garden,5
+7-H , Lasbela,6
+7-H , Post Office,7
+7-H , Sindhi Hotel,8
+7-H , New Town,9
+7-H , Civic Centre,10
+7-H , NIPA,11
+7-H , University Road,12
+7-H , Safoora Goth,13
+7-K ,Safoora Goth ,0
+7-K , PIA Society,1
+7-K , Pahalwan Goth,2
+7-K , Jauhar Chowrangi,3
+7-K , Aladin Park,4
+7-K , NIPA Chowrangi,5
+7-K , Gulshan Chowrangi,6
+7-K , Sohrab Goth,7
+7-K , Power House,8
+7-K , Nagan Chowrangi,9
+7-K , Sakhi Hassan,10
+7-K , Hyderi,11
+7-K , KDA Chowrangi,12
+7-K , Petrol Pump,13
+7-K , Habib Bank,14
+7-K , Naurus Chowrangi,15
+7-K , Ghani Chowrangi,16
+7-K , Shershah,17
+7-K , Gulbai,18
+7-K , PAF Gate Masroor,19
+8,P.I.B Colony,0
+8, Hyderabad Colony,1
+8, Guru Mandir,2
+8, M.A Jinnah Road,3
+8, Bandar Road,4
+8, Tower,5
+8-A ,P.I.B Colony,0
+8-A , Hyderabad Colony,1
+8-A , Guru Mandir,2
+8-A , M.A Jinnah Road,3
+8-A , Frere Street,4
+8-A , Preedy Street,5
+8-A , Frere Road,6
+8-A , Ingle Road,7
+8-A , Mcleod Road,8
+8-A , Napier Road,9
+8-A , Keamari,10
+Abaseen Coach ,Ittehad Town,0
+Abaseen Coach , Orangi No.11 1/2,1
+Abaseen Coach , Chisti Nagar,2
+Abaseen Coach , Islam Chowk,3
+Abaseen Coach , Orangi No.10,4
+Abaseen Coach , Orangi No.4,5
+Abaseen Coach , Metroville,6
+Abaseen Coach , SITE,7
+Abaseen Coach , Valika Mill,8
+Abaseen Coach , Habib Bank,9
+Abaseen Coach , Old Golimar,10
+Abaseen Coach , Garden,11
+Abaseen Coach , Plaza,12
+Abaseen Coach , Jama Cloth,13
+Abaseen Coach , Tower,14
+Abaseen Coach , Keamari,15
+Abaseen Coach , Shirin Jinnah Colony,16
+Abaseen Coach , Clifton.,17
+Adam Coach ,Ittehad Town,0
+Adam Coach , Muhammadi Chowk,1
+Adam Coach , Orangi No.10,2
+Adam Coach , Orangi No.5,3
+Adam Coach , Banaras Chowk,4
+Adam Coach , Habib Bank Chowrangi,5
+Adam Coach , Nazimabad,6
+Adam Coach , Liaquatabad No.10,7
+Adam Coach , Hassan Square,8
+Adam Coach , Karsaz,9
+Adam Coach , Shahrah-e-Faisal,10
+Adam Coach , Malir Halt,11
+Adam Coach , Mair 15,12
+Adam Coach , Quaidabad,13
+Adam Coach , Razaqabad,14
+Adam Coach , Gulshan-e-Hadeed.,15
+Agroor Coach ,Maymar Town,0
+Agroor Coach , Sohrab Goth,1
+Agroor Coach , Rashid Minhas Road,2
+Agroor Coach , NIPA Chowrangi,3
+Agroor Coach , Civic Centre,4
+Agroor Coach , Purani Sabzi Mandi,5
+Agroor Coach , Jail Chowrangi,6
+Agroor Coach , Teen Hatti,7
+Agroor Coach , Lasbela,8
+Agroor Coach , Nishter Road,9
+Agroor Coach , Garden,10
+Agroor Coach , Ramsawami,11
+Agroor Coach , KMC Workshop,12
+Agroor Coach , Haji Camp,13
+Agroor Coach , Lee Market,14
+Agroor Coach , Kharadar,15
+Agroor Coach , Jamat Khana,16
+Agroor Coach , Mauripur,17
+Agroor Coach , Gulbai,18
+Agroor Coach , Hawksbay.,19
+Ailia Coach ,Surjani Sector 5-D,0
+Ailia Coach , U.P Mour,1
+Ailia Coach , Disco Mour,2
+Ailia Coach , Qabristan,3
+Ailia Coach , Shipowner College,4
+Ailia Coach , Paposh Nagar,5
+Ailia Coach , Bara Maidan,6
+Ailia Coach , Nazimabad,7
+Ailia Coach , Petrol Pump,8
+Ailia Coach , Liaquatabad,9
+Ailia Coach , Sabzi Mandi,10
+Ailia Coach , Bahadurabad,11
+Ailia Coach , Tariq Road,12
+Ailia Coach , Sindhi Muslim Society,13
+Ailia Coach , Gora Qabristan,14
+Ailia Coach , Kala Pul,15
+Ailia Coach , Defence,16
+Ailia Coach , Super Market,17
+Ailia Coach , Punjab Colony,18
+Ailia Coach , Boat Basin,19
+Ailia Coach , Clifton,20
+Ailia Coach , Abdullah Shah Ghazi Mazar,21
+Ailia Coach , Mubarak Masjid,22
+Ailia Coach , Kinara Hotel.,23
+Al Hadeed Coach ,Bhense Colony,0
+Al Hadeed Coach , Labour Square,1
+Al Hadeed Coach , Hospital Chowrangi,2
+Al Hadeed Coach , Gul Ahmed Mills,3
+Al Hadeed Coach , Dawood Chowrangi,4
+Al Hadeed Coach , Quaidabad,5
+Al Hadeed Coach , Malir,6
+Al Hadeed Coach , Drigh Road,7
+Al Hadeed Coach , Karsaz,8
+Al Hadeed Coach , Agha Khan Hospital,9
+Al Hadeed Coach , New Town,10
+Al Hadeed Coach , Jail Road,11
+Al Hadeed Coach , Teen Hatti,12
+Al Hadeed Coach , Garden,13
+Al Hadeed Coach , Nishter Road,14
+Al Hadeed Coach , Spencer Hospital,15
+Al Hadeed Coach , Lee Market,16
+Al Hadeed Coach , Lyari Hospital,17
+Al Hadeed Coach , Behar Colony.,18
+Al Hamd Coach ,Surjani Town,0
+Al Hamd Coach , Surjani Sector 4,1
+Al Hamd Coach , Surjani Sector 7,2
+Al Hamd Coach , K.D.A Site Office,3
+Al Hamd Coach , Surjani Roundabout,4
+Al Hamd Coach , North Karachi Sector 5-A,5
+Al Hamd Coach , Bara Dari,6
+Al Hamd Coach , Disco Mour,7
+Al Hamd Coach , U.P Mour,8
+Al Hamd Coach , Nagan Chowrangi,9
+Al Hamd Coach , Sohrab Goth,10
+Al Hamd Coach , Rashid Minhas,11
+Al Hamd Coach , N.I.P.A,12
+Al Hamd Coach , Civic Centre,13
+Al Hamd Coach , Sabzi Mandi,14
+Al Hamd Coach , Shaheed-e-Millat Road,15
+Al Hamd Coach , Tariq Road.,16
+Al Missri Coach ,Muzaffarabad Colony,0
+Al Missri Coach , Hospital Chowrangi,1
+Al Missri Coach , Gul Ahmed Mills,2
+Al Missri Coach , Malir 15,3
+Al Missri Coach , Shahrah-e-Faisal,4
+Al Missri Coach , Karsaz,5
+Al Missri Coach , Stadium,6
+Al Missri Coach , Hassan Square,7
+Al Missri Coach , Liaquatabad No.10,8
+Al Missri Coach , Nazimabad,9
+Al Missri Coach , Habib Bank,10
+Al Missri Coach , Ghani Chowrangi,11
+Al Missri Coach , Shershah,12
+Al Missri Coach , Mahajir Camp,13
+Al Missri Coach , Mouch Goth,14
+Al Missri Coach , Naval Colony.,15
+Al Noor Coach ,Sohrab Goth,0
+Al Noor Coach , Gulshan Chowrangi,1
+Al Noor Coach , NIPA Chowrangi,2
+Al Noor Coach , Hassan Square,3
+Al Noor Coach , New Town,4
+Al Noor Coach , Mazar-e-Quaid,5
+Al Noor Coach , M.A Jinnah Road,6
+Al Noor Coach , Tower,7
+Al Noor Coach , Crown Cinema,8
+Al Noor Coach , Gulbai,9
+Al Noor Coach , New Truck Stand,10
+Al Noor Coach , Mauripur,11
+Al Noor Coach , Younusabad,12
+Al Noor Coach , Sandspit,13
+Al Qadri Coach ,Khokhrapar,0
+Al Qadri Coach , Drigh Road,1
+Al Qadri Coach , National Cement,2
+Al Qadri Coach , National Stadium,3
+Al Qadri Coach , Liaquat Medical Hospital,4
+Al Qadri Coach , Jail Road,5
+Al Qadri Coach , Teen Hatti,6
+Al Qadri Coach , Lasbella,7
+Al Qadri Coach , Lawrance Road,8
+Al Qadri Coach , Ranchore Lane,9
+Al Qadri Coach , Lee Market,10
+Al Qadri Coach , Kharadar,11
+Al Qadri Coach , Jamat Khana,12
+Al Qadri Coach , Gulbai,13
+Al Qadri Coach , Mauripur,14
+Al Qadri Coach , Naval Colony,15
+Al Qadri Coach , Hawksbay.,16
+Al Rehman Coach ,Baldia Town,0
+Al Rehman Coach , Shershah,1
+Al Rehman Coach , Panka Hotel,2
+Al Rehman Coach , Miran Naka,3
+Al Rehman Coach , Chakiwara,4
+Al Rehman Coach , Eye Hospital,5
+Al Rehman Coach , Napier Police Station,6
+Al Rehman Coach , Ghas Mandi,7
+Al Rehman Coach , Ranchore Lane,8
+Al Rehman Coach , Garden,9
+Al Rehman Coach , Lasbella,10
+Al Rehman Coach , Jail Road,11
+Al Rehman Coach , Agha Khan Hospital,12
+Al Rehman Coach , Shahrah-e-Faisal,13
+Al Rehman Coach , Airport,14
+Al Rehman Coach , Malir 15,15
+Al Rehman Coach , Quaidabad,16
+Al Rehman Coach , Dawood Chowrangi,17
+Al Rehman Coach , Mansehra.,18
+Arain Coach ,Safari Park,0
+Arain Coach , Sohrab Goth,1
+Arain Coach , Water Pump,2
+Arain Coach , Gulberg Chowrangi,3
+Arain Coach , Sakhi Hassan,4
+Arain Coach , Hyderi,5
+Arain Coach , Nazimabad,6
+Arain Coach , Petrol Pump,7
+Arain Coach , Habib Bank,8
+Arain Coach , Shershah,9
+Arain Coach , Gulbai,10
+Arain Coach , Grace Colony,11
+Arain Coach , Kannup Colony,12
+Askari Coach , Asif Market,0
+Askari Coach , Malir Cantt,1
+Askari Coach , Cantt Bazar,2
+Askari Coach , Malir Chowk,3
+Askari Coach , Model Colony,4
+Askari Coach , Jinnah Avenue,5
+Askari Coach , Malir Halt,6
+Askari Coach , Shahrah-e-Faisal,7
+Askari Coach , Drigh Road,8
+Askari Coach , Station,9
+Askari Coach , Nursery,10
+Askari Coach , Gora Qabristan,11
+Askari Coach , Holiday Inn Hotel,12
+Askari Coach , Jinnah Hospital,13
+Askari Coach , Askari Appartment,14
+Askari Coach , Cantt Railway Station,15
+Awan Luxury Coach ,Ittehad Town,0
+Awan Luxury Coach , Raees Amrohi Colony,1
+Awan Luxury Coach , Chisti Nagar,2
+Awan Luxury Coach , Orangi No.5,3
+Awan Luxury Coach , Banaras Chowk,4
+Awan Luxury Coach , Habib Bank,5
+Awan Luxury Coach , Bara Board,6
+Awan Luxury Coach , Garden,7
+Awan Luxury Coach , Jama Cloth Market,8
+Awan Luxury Coach , Mazar Abdullah Shah Ghazi,9
+Awan Luxury Coach , Clifton,10
+Ayaz Coach ,Surjani Town Sector 7,0
+Ayaz Coach , U.P Mour,1
+Ayaz Coach , Sohrab Goth,2
+Ayaz Coach , NIPA,3
+Ayaz Coach , Natha Khan Goth,4
+Ayaz Coach , Malir Halt,5
+Ayaz Coach , Malir City,6
+Ayaz Coach , Quaidabad,7
+Ayaz Coach , Dawood Chowrangi,8
+Ayaz Coach , Landhi No.1,9
+Ayaz Coach , Landhi No.2,10
+Ayaz Coach , Landhi No.3,11
+Ayaz Coach , Landhi No.4,12
+Ayaz Coach , Landhi No.5,13
+Ayaz Coach , Landhi No.6,14
+Ayaz Coach , Korangi No.6,15
+Ayaz Coach , Korangi No.5,16
+Azmat Coach ,Ittehad Town,0
+Azmat Coach , Orangi No.11-1/2,1
+Azmat Coach , Islam Chowk,2
+Azmat Coach , Orangi No.5,3
+Azmat Coach , Banaras Chowk,4
+Azmat Coach , Abbasi Shaheed Hospital,5
+Azmat Coach , Nazimabad Petrol Pump,6
+Azmat Coach , Liaquatabad No.10,7
+Azmat Coach , Hasan Square,8
+Azmat Coach , Karsaz,9
+Azmat Coach , Drigh Road,10
+Azmat Coach , Malir City,11
+Azmat Coach , Quaidabad,12
+Azmat Coach , Town Chowrangi,13
+Azmat Coach , Hospital Chowrangi,14
+Azmat Coach , Labour Square,15
+Azmat Coach , Bhense Colony,16
+Baraq Coach ,Allied Bank New Karachi Branch No.5,0
+Baraq Coach , New Karachi Sector 11-J,1
+Baraq Coach , Nala,2
+Baraq Coach , Godhra Camp,3
+Baraq Coach , Power House,4
+Baraq Coach , Sohrab Goth,5
+Baraq Coach , NIPA,6
+Baraq Coach , Drigh Road,7
+Baraq Coach , Station,8
+Baraq Coach , Shahrah-e-Faisal,9
+Baraq Coach , Malir,10
+Baraq Coach , Quaidabad,11
+Baraq Coach , Dawood Chowrangi,12
+Baraq Coach , Landhi No.6,13
+Baraq Coach , Landhi No.5,14
+Baraq Coach , Landhi No.4,15
+Baraq Coach , Landhi No.3,16
+Baraq Coach , Landhi No.1,17
+Baraq Coach , Korangi No.6,18
+Baraq Coach , Korangi No.1,19
+Baraq Coach , Nasir Colony,20
+Baraq Coach , Chamra Chowrangi,21
+Baraq Coach , Korangi Industrial Area,22
+Batool Coach ,New Karachi,0
+Batool Coach , Saba Cinema,1
+Batool Coach , Gabol Town,2
+Batool Coach , Godhra Camp,3
+Batool Coach , Sohrab Goth,4
+Batool Coach , Karimabad,5
+Batool Coach , Liaquatabad No.10,6
+Batool Coach , Petrol Pump,7
+Batool Coach , Nazimabad,8
+Batool Coach , Habib Bank,9
+Batool Coach , Shershah,10
+Batool Coach , Gulbai,11
+Batool Coach , Mauripur,12
+Batool Coach , Wazir Mansion,13
+Batool Coach , ICI Factory,14
+Batool Coach , Fisheries,15
+Be Misal Coach ,North Karachi Sector 2,0
+Be Misal Coach , North Karachi Sector 3,1
+Be Misal Coach , North Karachi Sector 5-A,2
+Be Misal Coach , North Karachi Sector 5-B,3
+Be Misal Coach , Bara Dari,4
+Be Misal Coach , Disco Mour,5
+Be Misal Coach , Nusrat Bhutto Colony,6
+Be Misal Coach , Abdullah College,7
+Be Misal Coach , Paposh Nagar,8
+Be Misal Coach , Abbasi Shaheed Hospital,9
+Be Misal Coach , Nazimabad No.7,10
+Be Misal Coach , Petrol Pump,11
+Be Misal Coach , Lasbella,12
+Be Misal Coach , Numaish,13
+Be Misal Coach , M.A Jinnah Road,14
+Be Misal Coach , Custom Road,15
+Be Misal Coach , West Wharf Road.,16
+Bilal Coach ,Ittehad Town,0
+Bilal Coach , Fareed Colony,1
+Bilal Coach , Mominabad,2
+Bilal Coach , Badar Hotel,3
+Bilal Coach , Orangi No.5,4
+Bilal Coach , Metro,5
+Bilal Coach , Banaras Chowk,6
+Bilal Coach , Habib Bank,7
+Bilal Coach , Nazimabad,8
+Bilal Coach , Petrol Pump,9
+Bilal Coach , Liaquatabad No.10,10
+Bilal Coach , Hassan Square,11
+Bilal Coach , New Town,12
+Bilal Coach , Jail Road,13
+Bilal Coach , Shaheed-e-Millat Road,14
+Bilal Coach , Baloch Colony,15
+Bilal Coach , Korangi Industrial Area,16
+Bilal Coach , Chamra Chowrangi,17
+Bilal Coach , Singer Chowrangi,18
+Bilal Coach , Sharafi Goth,19
+Bilal Coach , Dawood Chowrangi,20
+Bilal Coach , Gulberg Textile Mill,21
+Bilal Coach , Sessi hospital,22
+Bilal Coach , Labour Sqaure,23
+Bilal Coach , PMTF Colony,24
+Bismillah Coach ,Surjani Town Sector 9,0
+Bismillah Coach , Do Minute Chowrangi,1
+Bismillah Coach , Nagan Chowrangi,2
+Bismillah Coach , Power House,3
+Bismillah Coach , Sohrab Goth,4
+Bismillah Coach , Aisha Manzil,5
+Bismillah Coach , Liaquatabad,6
+Bismillah Coach , Goro Mandir,7
+Bismillah Coach , Numaish,8
+Bismillah Coach , Tower,9
+Bismillah Coach , Mauripur,10
+Bismillah Coach , Gulbai,11
+Bismillah Coach , Shershah,12
+Bismillah Coach , Ghani Chowrangi,13
+Bismillah Coach , College Chowrangi,14
+Bismillah Coach , S.I.T.E Police Station,15
+Bismillah Coach , Metroville,16
+Bismillah Coach , Frontier Mour,17
+Bismillah Coach , Mominabad,18
+Bismillah Coach , Saeedabad,19
+Bismillah Coach , Nai Abadi,20
+Burki Coach ,Maymar Complex,0
+Burki Coach , Al-Asif Square,1
+Burki Coach , Sohrab Goth,2
+Burki Coach , Water Pump,3
+Burki Coach , Karimabad,4
+Burki Coach , Liaquatabad No.10,5
+Burki Coach , Teen Hatti,6
+Burki Coach , Guru Mandir,7
+Burki Coach , Numaish,8
+Burki Coach , M.A Jinnah Road,9
+Burki Coach , Jama Cloth Market,10
+Burki Coach , Tower,11
+Burki Coach , Keamari.,12
+C ,Saddar,0
+C , Lucky Star,1
+C , Jinnah Hospital,2
+C , Kala Pul,3
+C , Korangi Road,4
+C , Akhter Colony,5
+C , Qayyumabad,6
+C , Korangi Crossing,7
+C , Korangi No.1,8
+C , Korangi No.2,9
+C , Korangi No.3,10
+C , Korangi No.4,11
+C , Korangi No.5,12
+C , Korangi No.5-1/2,13
+C , Korangi Market No.6,14
+C , Dhobi Ghat ,15
+C-2 ,Raja Ghazanfar Ali Road,0
+C-2 , Inverarity Road,1
+C-2 , Lucky Star,2
+C-2 , Jinnah Hospital,3
+C-2 , Kala Pul,4
+C-2 , Defence Society,5
+C-2 , Akhter Colony,6
+C-2 , Qayyumabad,7
+C-2 , Bhittai Colony,8
+C-2 , Korangi Bus Depot,9
+C-2 , Korangi No.1,10
+C-2 , Korangi No.5,11
+C-2 , 36-C Area,12
+C-2 , K-Area,13
+C-2 , Landhi No.5,14
+C-2 , Gul Ahmed Textile Mills,15
+C-3 ,Moosa Colony,0
+C-3 , Azam Square,1
+C-3 , Liaquatabad No.10,2
+C-3 , Hassan Square,3
+C-3 , Gulshan-e-Iqbal,4
+C-3 , Purani Sabzi Mandi,5
+C-3 , New Town Police Station,6
+C-3 , National Stadium,7
+C-3 , Dalmia Cement Factory,8
+C-3 , Drigh Road,9
+C-3 , Malir,10
+C-3 , Quaidabad,11
+C-3 , Landhi No.6,12
+C-3 , Korangi No.5,13
+C-3 , K-Area,14
+C-3 , 36-B Area,15
+C-3 , Ground Landhi,16
+City Coach ,Khuwaja Ajmer Nagri,0
+City Coach , U.P Mour,1
+City Coach , Nagan Chowrangi,2
+City Coach , Erum Shopping Centre,3
+City Coach , Buffer Zone Sector 16-A,4
+City Coach , Peoples Chowrangi,5
+City Coach , Rasheed Turabi Road,6
+City Coach , Dr. Ziauddin Hospital,7
+City Coach , Karimabad,8
+City Coach , Liaquatabad,9
+City Coach , Teen Hatti,10
+City Coach , Jail Road,11
+City Coach , Shaheed-e-Millat Road,12
+City Coach , Khalid Bin Waleed Road,13
+City Coach , Nursery,14
+City Coach , Shahrah-e-Faisal,15
+City Coach , Kalapul,16
+City Coach , Sunset Blvd,17
+City Coach , Gizri,18
+City Coach , Khayaban-e-Shamsheer,19
+City Coach , Abdullah Shah Ghazi Mazar,20
+City Coach , Shahrah-e-Galib ,21
+CNG Green Buses First Route,Surjani Town,0
+CNG Green Buses First Route, Baradari,1
+CNG Green Buses First Route, Nagan Chowrangi,2
+CNG Green Buses First Route, Hyderi,3
+CNG Green Buses First Route, Nazimabad,4
+CNG Green Buses First Route, Lasbela,5
+CNG Green Buses First Route, Guru Mandir,6
+CNG Green Buses First Route, M.A Jinnah Road,7
+CNG Green Buses First Route, Numaish,8
+CNG Green Buses First Route, Urdu Bazaar,9
+CNG Green Buses First Route, Jama Cloth,10
+CNG Green Buses First Route, Boltan Market ,11
+CNG Green Buses First Route,Tower,12
+CNG Green Buses Second Route,Surjani Town,0
+CNG Green Buses Second Route, Baradari,1
+CNG Green Buses Second Route, Nagan chowrangi,2
+CNG Green Buses Second Route, Bufferzone,3
+CNG Green Buses Second Route, Sohrab Goth,4
+CNG Green Buses Second Route, Rashid Minhas Road,5
+CNG Green Buses Second Route, Gulshan Chowrangi,6
+CNG Green Buses Second Route, NIPA,7
+CNG Green Buses Second Route, Millenium Mall,8
+CNG Green Buses Second Route, Drigh Road,9
+CNG Green Buses Second Route, Shahrah-e-Faisal,10
+CNG Green Buses Second Route, Nathakhan,11
+CNG Green Buses Second Route, Shah Faisal Express Way,12
+CNG Green Buses Second Route, Korangi Industrial Area,13
+CNG Green Buses Second Route, till Korangi Crossing,14
+D-10 ,Korangi 100 Quarter,0
+D-10 , Korangi No.5,1
+D-10 , Landhi No.6,2
+D-10 , Landhi No.5,3
+D-10 , Landhi No.4,4
+D-10 , Landhi No.3,5
+D-10 , Landhi No.2,6
+D-10 , Landhi No.1,7
+D-10 , Dawood Chowrangi,8
+D-10 , Quaidabad,9
+D-10 , Malir City,10
+D-10 , Malir Halt,11
+D-10 , Star Gate,12
+D-10 , Natha Khan Goth,13
+D-10 , Drigh Road,14
+D-10 , Rashid Minhas Road,15
+D-10 , Drive-in-Cinema,16
+D-10 , Jauhar Mour,17
+D-10 , NIPA Chowrangi,18
+D-10 , Gulshan Chowrangi,19
+D-10 , Sohrab Goth,20
+D-10 , Power House,21
+D-10 , Godhra,22
+D-10 , New Karachi Industrial Area,23
+D-10 , Saba Cinema,24
+D-10 , New Karachi No.5,25
+D-10 , Allahwali Masjid,26
+D-10 , 4-K Chowrangi,27
+D-10 , KDA Stop,28
+D-10 , Maraqba Hall,29
+D-10 , Khuda Ki Basti,30
+D-10 , Lerp Colony,31
+D-10 , Taiser Town,32
+D-12 ,Qaddafi Town,0
+D-12 , Quaidabad,1
+D-12 , Malir Halt,2
+D-12 , Star Gate,3
+D-12 , Drigh Road,4
+D-12 , Labour Campuse,5
+D-12 , Rashid Minhas Road,6
+D-12 , NIPA Chowrangi,7
+D-12 , Gulshan Moti Mehal,8
+D-12 , Sohrab Goth,9
+D-12 , Water Pump,10
+D-12 , Gulshan-e-Farooq,11
+D-12 , Qabrastan,12
+D-19 ,Filter Plant,0
+D-19 , Saadi Town,1
+D-19 , Safoora Goth,2
+D-19 , Mosmayat,3
+D-19 , University Road,4
+D-19 , Safari Park,5
+D-19 , NIPA Chowrangi,6
+D-19 , Kashmir Chowrangi,7
+D-19 , Islamia College,8
+D-19 , Guru Mandir,9
+D-19 , Sabil Wali Masjid,10
+D-19 , Numaish,11
+D-19 , Tibbat Centre,12
+D-19 , Saeed Manzil,13
+D-19 , Jama Cloth Market,14
+D-19 , Light House,15
+D-19 , Denso Hall,16
+D-19 , Tower,17
+D-4 ,Taiser Town,0
+D-4 , Khuda Ki Basti,1
+D-4 , Surjani Sector-4,2
+D-4 , KDA SITE Office,3
+D-4 , Do Minute Chowrangi,4
+D-4 , 4-J Bus Stop,5
+D-4 , Khawaja Ajmeri Nagri,6
+D-4 , Sector No.7-D,7
+D-4 , Anda Mour,8
+D-4 , Hussain D.Silva,9
+D-4 , Paposh Nagar,10
+D-4 , Bara Maidan,11
+D-4 , Nazimabad Petrol Pump,12
+D-4 , Gulbahar,13
+D-4 , Lasbela,14
+D-4 , Garden,15
+D-4 , Ranchore Line,16
+D-4 , Juna Market,17
+D-4 , Lee Market,18
+D-4 , Gulbai,19
+D-4 , Shershah,20
+D-4 , Hub River Road,21
+D-4 , Baldia Yousuf Goth,22
+Data Coach ,Surjani Town Sector 10-V,0
+Data Coach , KDA SITE Office,1
+Data Coach , Surjani Round About,2
+Data Coach , Disco Mour,3
+Data Coach , Sindhi Hotel,4
+Data Coach , Power House,5
+Data Coach , Sohrab Goth,6
+Data Coach , NIPA,7
+Data Coach , Sabzi Mandi,8
+Data Coach , Bahadurabad,9
+Data Coach , Tariq Road,10
+Data Coach , Society Qabristan,11
+Data Coach , Shahrah-e-Quaideen,12
+Data Coach , Nursery,13
+Data Coach , FTC,14
+Data Coach , Jinnah Hospital,15
+Data Coach , Askari Appartment,16
+Data Coach , Cantt,17
+Data Coach , Khaliq-uz-Zaman Road,18
+Data Coach , Abdullah Shah Ghazi Mazar,19
