@@ -71,8 +71,8 @@ def route():
 @app.route("/contactus", methods=['POST', 'GET'])
 def contact():
     form=Contact(request.form)
-    TO= ["af00370@st.habib.edu.pk"]
-    FROM= "fatimaanusha420@gmail.com"
+    TO= [send_to_email] #enter email to where you want to recieve mails of this contact form
+    FROM= youremail #email which will be used to send emails
     SUBJECT="TransitKhi Contactus"
     if request.method == 'POST':
         name=request.form['name']
@@ -89,7 +89,7 @@ def contact():
         print(message)
         server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls()
-        server.login("fatimaanusha420@gmail.com", "Alhumdulill@h")
+        server.login(Youremail, Yourpassword) #enter email and password which will be used to send emails
         server.sendmail(email, TO, message)
         server.quit()
     return render_template('contactus.html', form=form)
