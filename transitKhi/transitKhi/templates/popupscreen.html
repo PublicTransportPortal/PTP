@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+
+label {width: 200px; float: center; margin: 0 20px 0 0; }
+span { display: block; margin: 0 0 3px; font-size: 16px; font-weight: bold; }
+
+textarea {
+    width: 40%;
+    height: 100px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 12px;
+    resize: none;
+}
+
+input[type=text] {
+    width: 200px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 12px;
+}
+
+.button
+{
+    width: 100px;
+    height: 40px;
+    background-color: #555555;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: white; 
+    color: black; 
+    text-align: center;
+    line-height: 15px;
+    line-width: 100px;
+    border: solid #555555;
+    position: relative;
+    top: -250px;
+    left: 550px;
+}
+
+.button1:hover {
+    background-color: #6495ED;
+    color: #555555;
+}
+
+
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header{
+    padding: 0.003em;
+    color: white;
+    background-color: DarkRed;
+    clear: left;
+    text-align: center;
+    font-size: 120%;
+    width:100%;
+    height: 197px;
+}
+
+footer{
+        padding: 0.003em;
+    color: white;
+    background-color: DarkRed;
+    clear: left;
+    text-align: center;
+    font-size: 120%;
+    width:100%;
+}
+
+ul{
+    position:relative;
+    top:-20px;
+    list-style:none;
+    right: 50px;
+
+    }
+    ul li{
+    display:inline-block;
+    padding:20px;
+    color:white;
+    font-weight: bolder;
+    }
+    ul li >a{
+    color:white;
+    text-decoration:none;
+    
+    }
+
+h1 {
+    color: red;
+    position:relative;
+    left: 10px;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+}
+
+p.small {
+    line-height: 1.6;
+}
+
+body {
+    color: black;
+}
+
+div.stars {
+  width: 240px;
+  height: -40px;
+  display: inline-block;
+}
+
+input.star { display: none; }
+
+label.star {
+  float: left;
+  padding-left: 5px;
+  padding: -40px;
+  font-size: 36px;
+  color: #444;
+  transition: all .2s;
+}
+
+input.star:checked ~ label.star:before {
+  content: '\f005';
+  color: #FD4;
+  transition: all .25s;
+}
+
+input.star-5:checked ~ label.star:before {
+  color: #FE7;
+  text-shadow: 0 0 20px #952;
+}
+
+input.star-1:checked ~ label.star:before { color: #F62; }
+
+label.star:hover { transform:  rotate(-5deg) scale(1.1); }
+
+label.star:before {
+  content: '\f006';
+  font-family: FontAwesome;
+}
+
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<header>
+<img src="/static/images/logo.png" alt="HTML5 Icon" style="width:240px;height:140px;">
+        <ul style="text-align:left;" >
+            <li><a href="/">Find Your Bus</a></li>
+            <li><a href="/allroutes">All Routes</a></li>
+            <li><a href="/reviews">Reviews</a></li>
+            <li><a href="/contactus">Contact</a></li>
+        </ul>
+</header>
+  
+<h1 style="font-size=160%;"> Hey! Welcome back to Transit Khi! </h1>
+<p style="font-size:150%; padding-left:10px; " > <i> Please share your experience with us so that we can help out other bus users too.</i> </p>
+
+
+<form
+class = "small"
+style = "font-size: 100%; padding-left:10px;" >
+  <label for= "bus name">
+    <span>Which bus did you take? <input type="text"> </span>
+  </label>
+    <label for= "bus name">
+    <span>Rate your experience </span>
+  </label>
+  </form>
+  
+  
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+    
+    <div class="stars">
+  <form action="">
+    <input class="star star-5" id="star-5" type="radio" name="star"   />
+    <label class="star star-5" for="star-5" style = "position:relative; bottom:-2px; top:-45px; left: 170px;"></label>
+    <input class="star star-4" id="star-4" type="radio" name="star"/>
+    <label class="star star-4" for="star-4" 
+    style = "position:relative; top:-86px; left:208px;"  
+    ></label>
+    <input class="star star-3" id="star-3" type="radio" name="star"/>
+    <label class="star star-3" for="star-3"
+    style = "position:relative; top:-127px; left:246px;" ></label>
+    <input class="star star-2" id="star-2" type="radio" name="star"/>
+    <label class="star star-2" for="star-2"
+    style = "position:relative; top:-167px; left:283px;" ></label>
+    <input class="star star-1" id="star-1" type="radio" name="star"/>
+    <label class="star star-1" for="star-1"
+    style = "position:relative; top:-207.5px; left:321px;"></label>
+  </form>
+</div>
+  
+  <form
+class = "small"
+style = "font-size: 100%; padding-left:10px; position:relative; top:-215px;" >
+    <label for= "Reviews">
+    <span>Comments: &nbsp &nbsp 
+</span>
+  </label>
+</form>
+
+  <form
+class = "small"
+style = "font-size: 100%; padding-left:100px; position:relative; top:-255px;" >
+    <textarea name="message" style = "position:relative; left:30px;">   </textarea>
+    </form>
+
+<button class="button button1">Submit</button>
+
+<h2 style="font-size:150%; padding-left:10px; position:relative; top:-220px; " > <i> Thank you for sharing your experience with us :)</i> </p>
+
+
+
+<footer>Copyright &copy; transitkhi.com</footer>
+
+</div>
+
+</body>
+</html>
