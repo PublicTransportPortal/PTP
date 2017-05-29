@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+
+label {width: 200px; float: center; margin: 0 20px 0 0; }
+span { display: block; margin: 0 0 3px; font-size: 16px; font-weight: bold; }
+
+textarea {
+    width: 160%;
+    height: 200px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 12px;
+    resize: none;
+}
+
+input[type=text] {
+    width: 200px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 12px;
+}
+
+.button
+{
+    width: 100px;
+    height: 40px;
+    background-color: #555555;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: white; 
+    color: black; 
+    text-align: center;
+    line-height: 15px;
+    line-width: 100px;
+    border: solid #555555;
+    position: relative;
+    top: -250px;
+    left: 515px;
+}
+
+.button1:hover {
+    background-color: #6495ED;
+    color: #555555;
+}
+
+
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header{
+    padding: 0.003em;
+    color: white;
+    background-color: DarkRed;
+    clear: left;
+    text-align: center;
+    font-size: 120%;
+    width:100%;
+    height: 197px;
+}
+
+footer{
+        padding: 0.003em;
+    color: white;
+    background-color: DarkRed;
+    clear: left;
+    text-align: center;
+    font-size: 120%;
+    width:100%;
+    position:relative;
+    top: 500px;
+   
+}
+
+ul{
+    position:relative;
+    top:-20px;
+    list-style:none;
+    right: 50px;
+
+    }
+    ul li{
+    display:inline-block;
+    padding:20px;
+    color:white;
+    font-weight: bolder;
+    }
+    ul li >a{
+    color:white;
+    text-decoration:none;
+    
+    }
+
+h1 {
+    color: red;
+    position:relative;
+    left: 10px;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+}
+
+p.small {
+    line-height: 1.6;
+}
+
+body {
+    color: black;
+}
+
+ div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+    
+.query-form{
+width:600px;
+height:500px;
+background:white;
+position:absolute;
+top:300px;
+left:40px;
+border:3px solid black;
+
+}
+
+.heading{
+    font-weight: bolder;
+    border-bottom:3px solid black;
+    padding-bottom:8px;
+}
+
+table td{
+padding:12px;
+}
+
+
+
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<header>
+<img src="/static/images/logo.png" alt="HTML5 Icon" style="width:240px;height:140px;">
+        <ul style="text-align:left;" >
+            <li><a href="/">Find Your Bus</a></li>
+            <li><a href="/allroutes">All Routes</a></li>
+            <li><a href="/reviews">Reviews</a></li>
+            <li><a href="/contactus">Contact</a></li>
+        </ul>
+</header>
+  
+<h1 style="font-size=160%; position:relative; left: 270px;"> Have a query, complain or suggestion?</h1>
+<p style="font-size:150%; position:relative; left: 820px; " > GET IN TOUCH WITH US! </p>
+
+<img src="/static/images/message.png" alt="message icon" style="position:relative; left: 10px; width:20px;height:20px; top:135px;">
+<p style="font-size:120%; position:relative; left: 40px; top:90px; " > transitkhi@contactus.com </p>
+
+<div id="map" style="left:20px;width:350px;height:350px;top:90px;">
+</div>
+
+<script>
+function myMap() {
+var mapOptions = {
+    center: new google.maps.LatLng(51.5, -0.12),
+    zoom: 10,
+    mapTypeId: google.maps.MapTypeId.HYBRID
+}
+var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+}
+</script>
+
+
+<footer>Copyright &copy; transitkhi.com</footer>
+
+
+<section>
+    
+        <div class="query-form" style="position:relative; left:700px; top:-430px">
+            <h3 class="heading">&nbsp;&nbsp;Leave a message</h3>
+            <form action="http://127.0.0.1:5000/thankyou" method="get">
+            {{ form.csrf }}
+            <table>
+            <tr><div class="input text">
+                <td>{{ form.name.label }}</td>
+                <td>{{ form.name }}</td></div>
+            </tr>
+            <tr><div class="input text">
+                <td>{{form.email.label }}</td>
+                <td>{{ form.email }}</td></div>
+                
+            </tr>
+            <tr><div class="input text">
+                <td>{{ form.subject.label }}</td>
+                <td>{{ form.subject }}</td></div>
+            </tr>
+            <tr><div class="input text">
+                <td>{{form.message.label }}</td>
+                <td>{{ form.message }}</td></div>
+                
+            </tr>
+
+            <tr>    
+            <td colspan="2" style="text-align:right">
+                <input type="submit" class="button" value="Submit" />
+            </td>
+            </tr>
+
+        </form>
+            <!-- <tr>
+                <td><label style="position:relative; top:-30px"><b>Name:</b></label></td>
+                <td><input style="position:relative; top:-25px" type="text" name="from"></td>
+            </tr>
+            <tr>
+                <td><label style="position:relative; top:-40px"><b>Email:</b></label></td>
+                <td><input style="position:relative; top:-35px" type="text" name="to"></td>     
+            </tr>
+            
+            <tr>
+            <td><label style="position:relative; top:-130px"><b>Message:</b></label></td>
+                <td><textarea name="message" style = "position:relative; top:-40px;">   </textarea></td>
+            
+            </tr>
+            
+            <tr>
+            <td>
+            <button class="button button1" style = "position:relative; left: 470px; top: -65px;">SEND</button>
+            </td>
+            </tr>
+            
+            <tr>
+            <td>
+<p style="font-size:120%; position:relative; top:-115px; left: 150px;" > <i> We'll get right back to you!</i> </p>
+            </td>
+            </tr> -->
+            
+            
+        </div>
+    </section>
+
+
+</div>
+
+</body>
+</html>
