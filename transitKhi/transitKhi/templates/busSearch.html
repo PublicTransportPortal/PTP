@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>table</title>
+	
+	<style>
+
+    header, footer {
+    padding: 0.003em;
+    color: white;
+    background-color: DarkRed;
+    clear: left;
+    text-align: center;
+    font-size: 120%;
+    width:100%;
+	height:197px;
+}
+	section{
+	background:url(/static/images/cover.jpg);
+	background-size:cover;
+	height:700px;
+	width:100%;
+	}
+	ul{
+	position:relative;
+	top:-20px;
+	list-style:none;
+    right:50px;
+
+	}
+	ul li{
+	display:inline-block;
+	padding:20px;
+	color:white;
+	font-weight: bolder;
+	}
+	ul li >a{
+	color:white;
+	text-decoration:none;
+	
+	}
+    
+    div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+    
+	.query-form{
+	width:300px;
+	height:375px;
+	background:white;
+	position:absolute;
+	top:300px;
+	left:40px;
+	border:3px solid black;
+
+	}
+	.heading{
+		font-weight: bolder;
+		border-bottom:3px solid black;
+		padding-bottom:8px;
+	}
+	table td{
+	padding:12px;
+	}
+	.button{
+	background:rgba(58, 27, 16, 0.24);
+	border:none;
+	padding:8px;
+	
+	}
+	</style>
+</head>
+
+
+<body>
+
+
+<div class="container">
+   <header>
+   	<img src="/static/images/logo.png" />
+		<ul style="text-align:left;" >
+			<li><a href="/">Find Your Bus</a></li>
+			<li><a href="/allroutes">All Routes</a></li>
+            <li><a href="/reviews">Reviews</a></li>
+			<li><a href="/contactus">Contact</a></li>
+		</ul>
+	</header>
+	
+	<section>
+		
+		<div class="query-form">
+			<h3 class="heading">&nbsp;&nbsp;Find Your Bus</h3>
+			<form action = "http://127.0.0.1:5000/busoptions" method="post">
+            {{ form.csrf }}
+			<table>
+			
+
+
+			<tr><div class="input text">
+				<td>{{ form.frm.label }}</td>
+				<td>{{ form.frm }}</td></div>
+			</tr>
+			<tr><div class="input text">
+				<td>{{form.to.label }}</td>
+				<td>{{ form.to }}</td></div>
+				
+			</tr>
+			
+			<!-- <tr>
+			
+				<td colspan="2" style="margin-top:100px"><input type="checkbox" name="Bus" ><label><b>Bus</b></label></td>
+			</tr>
+			<tr>
+				
+				<td colspan="2"><input type="checkbox" name="MiniBus"><label><b>Mini Bus</b></label></td>
+			</tr>
+			<tr>
+				
+				<td colspan="2"><input type="checkbox" name="Coach"><label><b>Coach</b></label></td>
+			</tr>
+			 -->
+			<tr>	
+			<td colspan="2" style="text-align:right">
+                <input type="submit" class="button" value="Search" />
+            </td>
+			</tr>
+		</form>
+			
+			
+			
+		</div>
+	</section>
+</body>
